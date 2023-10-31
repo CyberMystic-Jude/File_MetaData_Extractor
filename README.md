@@ -24,10 +24,12 @@ To install this tool in terminal
 
 Use the following command to extract metadata from a file:
 
-Python
+In Python
+
 python MetaDataExtract.py -f '/path/to/your/file'
 
-```bash
+In bash
+
 ./MetaDataExtract -f '/path/to/your/file'
 
 For Help
