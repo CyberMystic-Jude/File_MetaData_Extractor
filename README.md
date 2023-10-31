@@ -17,6 +17,8 @@ To install this tool in terminal
   git clone https://github.com/CyberMystic-Jude/File_MetaData_Extractor
   
   cd File_MetaData_Extractor
+
+  chmod +x MetaDataExtract.py
   
   python MetaDataExtract.py -h
 
@@ -24,18 +26,13 @@ To install this tool in terminal
 
 Use the following command to extract metadata from a file:
 
-In Python
 
 python MetaDataExtract.py -f '/path/to/your/file'
 
-In bash
-
-./MetaDataExtract -f '/path/to/your/file'
 
 For Help
 
 python MetaDataExtract.py -h
 
-./MetaDataExtract -h
 
 
