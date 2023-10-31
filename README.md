@@ -33,6 +33,7 @@ In bash
 ./MetaDataExtract -f '/path/to/your/file'
 
 For Help
+
 python MetaDataExtract.py -h
 (or)
 ./MetaDataExtract -h
