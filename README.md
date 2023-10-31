@@ -15,7 +15,9 @@ This tool is designed to be easy to use and is suitable for developers, data ana
 To install the tool in terminal
 
   git clone https://github.com/CyberMystic-Jude/File_MetaData_Extractor
+  
   cd File_MetaData_Extractor
+  
   python MetaDataExtract.py -h
 
 ## Usage
