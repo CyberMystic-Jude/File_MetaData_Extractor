@@ -24,8 +24,8 @@ To install this tool in terminal
 
 Use the following command to extract metadata from a file:
 
-```python
-python MetaDataExtract.p -f '/path/to/your/file'
+Python
+python MetaDataExtract.py -f '/path/to/your/file'
 
 ```bash
 ./MetaDataExtract -f '/path/to/your/file'
