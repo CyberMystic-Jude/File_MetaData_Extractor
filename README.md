@@ -35,7 +35,7 @@ In bash
 For Help
 
 python MetaDataExtract.py -h
-(or)
+
 ./MetaDataExtract -h
 
 
