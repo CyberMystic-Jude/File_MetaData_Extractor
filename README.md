@@ -12,7 +12,7 @@ This tool is designed to be easy to use and is suitable for developers, data ana
 
 ## Installation
 
-To install the tool in terminal
+To install this tool in terminal
 
   git clone https://github.com/CyberMystic-Jude/File_MetaData_Extractor
   
