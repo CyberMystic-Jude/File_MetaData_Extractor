@@ -51,8 +51,7 @@ def extract_file_metadata(file_path):
         if file_type.startswith("video"):
             pass
 
-        print("---File Meta Data Extractor ~by JUDE---")
-        print()
+        print("---File Meta Data Extractor ~by JUDE---",end='\n')
         print(f"File: {file_path}")
         print(f"File Type: {file_type}")
         print(f"Size: {size} bytes")
@@ -66,8 +65,7 @@ def extract_file_metadata(file_path):
         print(f"GPS Coordinates: {gps_coordinates}")
         print(f"Camera Settings: {camera_settings}")
         print(f"Audio Bitrate: {audio_bitrate}")
-        print(f"Video Resolution: {video_resolution}")
-        print()
+        print(f"Video Resolution: {video_resolution}",end='\n')
         print("*** For more details and Tools visit our GitHub page 'CyberMystic-Jude' ***")
     except FileNotFoundError:
         print(f"File not found: {file_path}")
